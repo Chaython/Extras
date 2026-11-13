@@ -1,16 +1,16 @@
 {
-    "version": "2026b",
+    "version": "2026d",
     "description": "Gnu Regression, Econometrics and Time-series Library",
     "homepage": "http://gretl.sourceforge.net",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://downloads.sourceforge.net/project/gretl/gretl/2026b/gretl-2026b-64.exe",
-            "hash": "sha1:2c2ded057cec98053b8b7912ce5bde83fc229246"
+            "url": "https://downloads.sourceforge.net/project/gretl/gretl/2026d/gretl-2026d-64.exe",
+            "hash": "sha1:12d06f371e39803c97860454497533eff67a59fc"
         },
         "32bit": {
-            "url": "https://downloads.sourceforge.net/project/gretl/gretl/2026b/gretl-2026b-32.exe",
-            "hash": "sha1:94ea206c0561f4a66265ce8fc1b7e175839782a5"
+            "url": "https://downloads.sourceforge.net/project/gretl/gretl/2026d/gretl-2026d-32.exe",
+            "hash": "sha1:8724e5599df7e32064c5988e6474f3debd473614"
         }
     },
     "innosetup": true,

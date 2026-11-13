@@ -1,5 +1,5 @@
 {
-    "version": "2.25.10",
+    "version": "2.26.2",
     "description": "An advanced freeware audio player for the Windows platform.",
     "homepage": "https://www.foobar2000.org/",
     "license": {
@@ -11,16 +11,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://www.foobar2000.org/files/foobar2000-x64_v2.25.10.exe#/dl.7z",
-            "hash": "530e6c9db829874bc250af038c1d07f8b42fef61c5dd99f7edcde6393a93ee23"
+            "url": "https://www.foobar2000.org/files/foobar2000-x64_v2.26.2.exe#/dl.7z",
+            "hash": "ffa739f87d9c374cb030426a2ab4bfb37959d0dbb892fdc742654c14d127f795"
         },
         "32bit": {
-            "url": "https://www.foobar2000.org/files/foobar2000_v2.25.10.exe#/dl.7z",
-            "hash": "2a9cd51e0b5309c95db578257904ee4a6c59a61167074e9f56e43658c74984d9"
+            "url": "https://www.foobar2000.org/files/foobar2000_v2.26.2.exe#/dl.7z",
+            "hash": "f0368148e4da1f964d067a31057858ef26b5bb181732fcbdfb7b9824f6d76c37"
         },
         "arm64": {
-            "url": "https://www.foobar2000.org/files/foobar2000-arm64ec_v2.25.10.exe#/dl.7z",
-            "hash": "f623eb396dd0ac2c62f139908ac3de5ef187c3eb9795542b3ad0ce38f315149c"
+            "url": "https://www.foobar2000.org/files/foobar2000-arm64ec_v2.26.2.exe#/dl.7z",
+            "hash": "893de6f70e9bbc45b9b36c258ff6bc668c34f0aada5ad936182b1905e74f7fe0"
         }
     },
     "installer": {

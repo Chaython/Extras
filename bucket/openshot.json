@@ -1,5 +1,5 @@
 {
-    "version": "4.0.0",
+    "version": "4.1.1",
     "description": "Easy to use video editor",
     "homepage": "https://www.openshot.org/",
     "license": "GPL-3.0-or-later",
@@ -9,12 +9,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/OpenShot/openshot-qt/releases/download/v4.0.0/OpenShot-v4.0.0-x86_64.exe",
-            "hash": "fcecfcfd616447797d46edcca6d8fe5ca70ea19b387ae257ec24f11811f715ef"
+            "url": "https://github.com/OpenShot/openshot-qt/releases/download/v4.1.1/OpenShot-v4.1.1-x86_64.exe",
+            "hash": "6c18abf951a798b536b07aa88f78d62eb55345903699b429b08322323c049690"
         },
         "32bit": {
-            "url": "https://github.com/OpenShot/openshot-qt/releases/download/v4.0.0/OpenShot-v4.0.0-x86.exe",
-            "hash": "0b06acf0d1b1c75a053dd34975be15202400aa3f1fa1de12d69894ce3e3fb3f2"
+            "url": "https://github.com/OpenShot/openshot-qt/releases/download/v4.1.1/OpenShot-v4.1.1-x86.exe",
+            "hash": "f2eab57398555453a62ae75730a92cca9b004c94c9b0c768281da0ec99ee42b5"
         }
     },
     "innosetup": true,

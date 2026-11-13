@@ -1,16 +1,16 @@
 {
-    "version": "0.18.0",
+    "version": "0.23.0",
     "description": "Modern SSH client built in Rust (encrypted vault, P2P sync, AI, Kubernetes)",
     "homepage": "https://github.com/wilsonglasser/oryxis",
     "license": "AGPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wilsonglasser/oryxis/releases/download/v0.18.0/oryxis-windows-x86_64.zip",
-            "hash": "ddb42f0efb0b0c29f21dca850b58c2e9170e52486ebe67dfe584814220efe28c"
+            "url": "https://github.com/wilsonglasser/oryxis/releases/download/v0.23.0/oryxis-windows-x86_64.zip",
+            "hash": "c12851344e78c086a25df1e01e8556378819f7f0ba69eec9e1b276c1d31312f7"
         },
         "arm64": {
-            "url": "https://github.com/wilsonglasser/oryxis/releases/download/v0.18.0/oryxis-windows-aarch64.zip",
-            "hash": "85a78c5dd1bd58c23f8bb64bfd1a4bd8174b8b5996b169a3c2744d1e96417b8a"
+            "url": "https://github.com/wilsonglasser/oryxis/releases/download/v0.23.0/oryxis-windows-aarch64.zip",
+            "hash": "287978909ff3186a6a0da7b7ddc17f629128007d3860887b56b7cfce68106e65"
         }
     },
     "bin": "oryxis.exe",

@@ -1,12 +1,12 @@
 {
-    "version": "3.2.2",
+    "version": "3.4.1",
     "description": "A web file server to run on your computer",
     "homepage": "https://rejetto.com/hfs",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rejetto/hfs/releases/download/v3.2.2/hfs-windows-x64-3.2.2.zip",
-            "hash": "8c6d4aef24df7a7f5bf58bf2bcde52932afcd1cc31b50bdc5d2fb8b02d41c514"
+            "url": "https://github.com/rejetto/hfs/releases/download/v3.4.1/hfs-windows-x64-3.4.1.zip",
+            "hash": "2021648c72e5ee0b78eb67e7f68bfde069acc753776d8d6e66afc4a8ec4569ca"
         }
     },
     "pre_install": "if (!(Test-Path \"$persist_dir\\config.yaml\")) { New-Item \"$dir\\config.yaml\" | Out-Null }",

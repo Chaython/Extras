@@ -1,5 +1,5 @@
 {
-    "version": "3.5.1130",
+    "version": "3.7.1143",
     "description": "Free antispy tool for Windows 10",
     "homepage": "https://www.oo-software.com/en/shutup10",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://www.oo-software.com/en/shutup10/eula"
     },
     "url": "https://dl5.oo-software.com/files/ooshutup10/OOSU10.exe",
-    "hash": "1ad8cdc324a79ac37a50858fddcd28eb7491459114f0da514c4750b08b115103",
+    "hash": "ea2790422aa81d62f22ae93e995c205d4d7a6ac9825877cf34ad4e65a8253ece",
     "pre_install": "if (!(Test-Path \"$persist_dir\\OOSU10.cfg\")) { New-Item \"$dir\\OOSU10.cfg\" | Out-Null }",
     "shortcuts": [
         [

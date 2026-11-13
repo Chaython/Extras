@@ -1,5 +1,5 @@
 {
-    "version": "13.2.579",
+    "version": "15.0.590",
     "homepage": "https://www.git-tower.com",
     "description": "An easy to use GUI client for Git with powerful features.",
     "license": {
@@ -11,12 +11,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://www.git-tower.com/apps/tower3-win/579-85d525c8/Tower-13.2.579.exe#/dl.7z",
-            "hash": "sha1:08c0fc41086a0aac2d597fa62148cfd3b34de328"
+            "url": "https://www.git-tower.com/apps/tower3-win/590-9f2e3074/Tower-15.0.590.exe#/dl.7z",
+            "hash": "sha1:31cf01dcb053e942021b7f543978eb0f80dc7ff9"
         },
         "arm64": {
-            "url": "https://www.git-tower.com/apps/tower3-win/579-85d525c8/Tower_arm64-13.2.579.exe#/dl.7z",
-            "hash": "sha1:56b849a5f41b05e217067e6d587e2f03b9838409"
+            "url": "https://www.git-tower.com/apps/tower3-win/590-9f2e3074/Tower_arm64-15.0.590.exe#/dl.7z",
+            "hash": "sha1:1a2ce1798c260cf146fc1f844b5901480c701032"
         }
     },
     "extract_dir": "lib\\native",

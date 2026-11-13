@@ -1,17 +1,17 @@
 {
-    "version": "3.0.1",
+    "version": "3.2.0",
     "description": "A peer-to-peer file-sharing client for the eD2k and Kademlia networks, compatible with eMule.",
     "homepage": "https://github.com/amule-org/amule",
     "license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/amule-org/amule/releases/download/3.0.1/aMule-3.0.1-Windows-x64.zip",
-            "hash": "4864f0b2ad0fadf82b433800120144133f9a71d0a0c147ac9f3743b5c9538389",
+            "url": "https://github.com/amule-org/amule/releases/download/3.2.0/aMule-3.2.0-Windows-x64.zip",
+            "hash": "6826fb9c3a63394c5ba111647ab397025cc8e44034772263aab18bae50f4ab32",
             "extract_dir": "amule-portable-x64"
         },
         "arm64": {
-            "url": "https://github.com/amule-org/amule/releases/download/3.0.1/aMule-3.0.1-Windows-arm64.zip",
-            "hash": "a40bea03aedd09d16d9f7b135272b86fcbc36c49b6718611100066573a303a6c",
+            "url": "https://github.com/amule-org/amule/releases/download/3.2.0/aMule-3.2.0-Windows-arm64.zip",
+            "hash": "a584a25cbc47767ba07a70387ada5183daf184453401d24d035a6587f86daef8",
             "extract_dir": "amule-portable-arm64"
         }
     },

@@ -1,16 +1,16 @@
 {
-    "version": "3.8.0",
+    "version": "3.13.0",
     "description": "A wealth management tool designed to help users track and manage their financial portfolios.",
     "homepage": "https://wealthfolio.app/",
     "license": "LGPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wealthfolio/wealthfolio/releases/download/v3.8.0/Wealthfolio_3.8.0_x64-setup.exe#/dl.7z",
-            "hash": "61969175a3c9a2856f3c1979e5adf78e87c73f4ce86b9ff59f84ee12ea806014"
+            "url": "https://github.com/wealthfolio/wealthfolio/releases/download/v3.13.0/Wealthfolio_3.13.0_x64-setup.exe#/dl.7z",
+            "hash": "6caeef41093e1340dd364ab062dc31b1bef89751ac1a20b66ce8c954b8fb61cb"
         },
         "arm64": {
-            "url": "https://github.com/wealthfolio/wealthfolio/releases/download/v3.8.0/Wealthfolio_3.8.0_arm64-setup.exe#/dl.7z",
-            "hash": "6072c8dbdd5fa367c76ec0f12661004b7d325b7093880c6a4756c13ccf67c0ee"
+            "url": "https://github.com/wealthfolio/wealthfolio/releases/download/v3.13.0/Wealthfolio_3.13.0_arm64-setup.exe#/dl.7z",
+            "hash": "0fa0981e7b7f18f1679ec27433af8e97f433c2557113f0ebe824e23cf56b1cc3"
         }
     },
     "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\" -Force -Recurse",

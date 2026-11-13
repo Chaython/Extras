@@ -1,5 +1,5 @@
 {
-    "version": "2.7.1",
+    "version": "3.2.0",
     "description": "Tool for organizing web apps into one application with rich features",
     "homepage": "https://rambox.app",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ramboxapp/download/releases/download/v2.7.1/Rambox-2.7.1-win-x64.exe#/dl.7z",
-            "hash": "sha512:ec2e468521b191e19cc24bd531996bdb7420990a2ac571052457acc9a232af04a50a91092e13f1d95b5ec1f6d8e7c51a84967697a9bfe9b394c622966bfa8f02"
+            "url": "https://github.com/ramboxapp/download/releases/download/v3.2.0/Rambox-3.2.0-win-x64.exe#/dl.7z",
+            "hash": "sha512:8ada05e872f2898b15858c5f95f81adc6b6153a12494fb7f9cb3c40b158cc05a1b364597a0bdb48492e97e5369ff581b97de935a26c6b8fe2ec2a3a14482670b"
         }
     },
     "pre_install": [

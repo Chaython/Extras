@@ -1,16 +1,16 @@
 {
-    "version": "1.16.1",
+    "version": "1.19.0",
     "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
     "homepage": "https://anythingllm.com",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://cdn.anythingllm.com/latest/AnythingLLMDesktop.exe#/dl.7z",
-            "hash": "8b5d9583abbbb236a5f8f3970b8e9d47e6b167a7707a16c8fe6a655a32c92775"
+            "hash": "743d10ddf920087b46cd614cafd2e0e31550089405436f00cbd827c43ca4c90a"
         },
         "arm64": {
             "url": "https://cdn.anythingllm.com/latest/AnythingLLMDesktop-Arm64.exe#/dl.7z",
-            "hash": "cb692824a838ff49773812562db49f940120dc2492e421f073728b9209334286"
+            "hash": "77130550a5dc647e54b05ee756c8e8dc94b6b13b01c698ac0979e97b32da0c0a"
         }
     },
     "installer": {

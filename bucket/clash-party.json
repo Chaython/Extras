@@ -1,20 +1,20 @@
 {
-    "version": "2.0.2",
+    "version": "2.0.4",
     "description": "Another Mihomo GUI.",
     "homepage": "https://clashparty.org/",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-windows-2.0.2-x64-portable.7z",
-            "hash": "1d414f6edcabb042243ce76318fc5134216e82ad17bc75c0ff4edafa7d5b63b2"
+            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-windows-2.0.4-x64-portable.7z",
+            "hash": "182063a60b9a06535d176742d627f8b8c95a99aae85fc8752c880efee7da5157"
         },
         "32bit": {
-            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-windows-2.0.2-ia32-portable.7z",
-            "hash": "b77fde2a036dcd0b6ca0c560745798f13bd2a06a45ddf9f9819685d3b9e1c40b"
+            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-windows-2.0.4-ia32-portable.7z",
+            "hash": "19905e796f373660651b2b9b83c37e5087cda6a2e03c5cde05ee3f5fa717741c"
         },
         "arm64": {
-            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.2/clash-party-windows-2.0.2-arm64-portable.7z",
-            "hash": "5ff72f71bd4e34ad19543296c78dcc68201e7fa2f59b3e8dd35e03810141eff2"
+            "url": "https://github.com/mihomo-party-org/clash-party/releases/download/v2.0.4/clash-party-windows-2.0.4-arm64-portable.7z",
+            "hash": "c3c702bc77523611330a5a6c9e5424bdcfa662ca18ce7234826a9aaa676addb6"
         }
     },
     "persist": "data",

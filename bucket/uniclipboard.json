@@ -1,5 +1,5 @@
 {
-    "version": "0.19.3",
+    "version": "1.6.2",
     "description": "Encrypted peer-to-peer clipboard sync between your devices",
     "homepage": "https://uniclipboard.app",
     "license": "AGPL-3.0-only",
@@ -9,12 +9,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/UniClipboard/UniClipboard/releases/download/v0.19.3/UniClipboard_0.19.3_x64-portable.zip",
-            "hash": "33d2ead7ab4d6e5c377aa9ca74f5069e4f7cf19c4178794186e75aafb2ccc6fb"
+            "url": "https://github.com/UniClipboard/UniClipboard/releases/download/v1.6.2/UniClipboard_1.6.2_x64-portable.zip",
+            "hash": "e6452c48eef4341488fecc4065357daf3b49a86aab4cc2aabf274192b5630848"
         },
         "arm64": {
-            "url": "https://github.com/UniClipboard/UniClipboard/releases/download/v0.19.3/UniClipboard_0.19.3_arm64-portable.zip",
-            "hash": "32499a35f7e58a1048839ad0ac43bd028eb0b9726659dd4638a2bd02773f5456"
+            "url": "https://github.com/UniClipboard/UniClipboard/releases/download/v1.6.2/UniClipboard_1.6.2_arm64-portable.zip",
+            "hash": "c50952fb8a290af6c930afa85110f9d8b11d8279de07cc5b0623ec82c51874ae"
         }
     },
     "bin": "UniClipboard.exe",

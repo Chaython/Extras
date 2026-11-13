@@ -1,12 +1,12 @@
 {
-    "version": "3.3.0",
+    "version": "3.5.0",
     "description": "A code editor for humanoid apes and grumpy toads.",
     "homepage": "https://gram-editor.com/",
     "license": "GPL-3.0-or-later",
     "architecture": {
         "64bit": {
-            "url": "https://codeberg.org/GramEditor/gram/releases/download/3.3.0/Gram-x86_64.exe",
-            "hash": "05d49c8dd938b04dc72e7389c66cb7d2b2228acde3b8fff363a7de1b98402cef"
+            "url": "https://codeberg.org/GramEditor/gram/releases/download/3.5.0/Gram-x86_64.exe",
+            "hash": "2fb8149389dcaf2d863ce863c7d365d83f264523386750d012a87d3a8e1efda3"
         }
     },
     "innosetup": true,

@@ -1,22 +1,22 @@
 {
-    "version": "5.0.57.0",
+    "version": "5.0.80.0",
     "description": "Graphical GREP tool to search across text files, Word and Excel documents, PDFs and archives",
     "homepage": "https://dngrep.github.io/",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dnGrep/dnGrep/releases/download/v5.0.57.0/dnGREP.5.0.57.x64.msi",
-            "hash": "b302f4f1d3faee251b3565aefb380d05246e5cf6721e1eaaad6dfa12376d2bd5",
+            "url": "https://github.com/dnGrep/dnGrep/releases/download/v5.0.80.0/dnGREP.5.0.80.x64.msi",
+            "hash": "4e4010229a21538d816c36b1a67c5e04071ee872d7ba4e3312a283b16bab286f",
             "extract_dir": "PFiles64\\dnGrep"
         },
         "32bit": {
-            "url": "https://github.com/dnGrep/dnGrep/releases/download/v5.0.57.0/dnGREP.5.0.57.x86.msi",
-            "hash": "18b3e43da541f158ddafd05ad6c5d70d7aa5307594e0ba0bb9746af854670777",
+            "url": "https://github.com/dnGrep/dnGrep/releases/download/v5.0.80.0/dnGREP.5.0.80.x86.msi",
+            "hash": "dab68d91efec2dbf42fa46fb7b4c96cbfc5e4e8cbea2719e135c62627e13a279",
             "extract_dir": "PFiles\\dnGrep"
         },
         "arm64": {
-            "url": "https://github.com/dnGrep/dnGrep/releases/download/v5.0.57.0/dnGREP.5.0.57.ARM64.msi",
-            "hash": "a76739210123e15fd94203717a09e9bed62f04cd7d23b1597d4f9bf4582009f8",
+            "url": "https://github.com/dnGrep/dnGrep/releases/download/v5.0.80.0/dnGREP.5.0.80.ARM64.msi",
+            "hash": "2e76abbd2949974c1223d8001ac2aa299c39dd46da0ace000b06ee9ac93dc6b8",
             "extract_dir": "PFiles64\\dnGrep"
         }
     },

@@ -1,18 +1,24 @@
 {
-    "version": "0.8.3",
+    "version": "0.9.0",
     "description": "A local-first alternative to Logitech Options+, written in Rust. Remap buttons, drive DPI and SmartShift over HID++. No account, no telemetry.",
     "homepage": "https://openlogi.org",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AprilNEA/OpenLogi/releases/download/v0.8.3/OpenLogi-v0.8.3-windows-x86_64.zip",
-            "hash": "abbc6247e2159fcf4f2e36de40160764a345a18efd2edbc15fc9fd39cd226c7a"
+            "url": "https://github.com/AprilNEA/OpenLogi/releases/download/v0.9.0/OpenLogi-v0.9.0-windows-x86_64.zip",
+            "hash": "1e42f56714108e592b99ac42fa7cea0b41e39fee8119dec36a75800ae0d7a5b4"
         },
         "arm64": {
-            "url": "https://github.com/AprilNEA/OpenLogi/releases/download/v0.8.3/OpenLogi-v0.8.3-windows-arm64.zip",
-            "hash": "9203b43b7a0ca982d1bc947a01df062a3c6aad751fbcb3a91f079ba0b3f8dbde"
+            "url": "https://github.com/AprilNEA/OpenLogi/releases/download/v0.9.0/OpenLogi-v0.9.0-windows-arm64.zip",
+            "hash": "b630ef4a54ee4014240689422808fc544d4de91827325470026529a33a4fcb73"
         }
     },
+    "bin": [
+        [
+            "bin\\openlogi.exe",
+            "openlogi"
+        ]
+    ],
     "shortcuts": [
         [
             "OpenLogi.exe",
@@ -32,7 +38,7 @@
             }
         },
         "hash": {
-            "url": "https://github.com/AprilNEA/OpenLogi/releases/download/v$version/SHA256SUMS"
+            "url": "$baseurl/SHA256SUMS"
         }
     }
 }

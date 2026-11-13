@@ -1,16 +1,16 @@
 {
-    "version": "101.0",
+    "version": "103.0",
     "description": "A set of tools to create, alter and inspect Matroska files.",
     "homepage": "https://mkvtoolnix.download",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://mkvtoolnix.download/windows/releases/101.0/mkvtoolnix-64-bit-101.0.7z",
-            "hash": "sha512:ee49f023b433e45b379bf9950455106c67671f83337e87a63a72064ada2e41d24e7644d2abcf1a4193a53818ed5ff4106b74cb85ace045aead9bdbaea5c8c2b8"
+            "url": "https://mkvtoolnix.download/windows/releases/103.0/mkvtoolnix-64-bit-103.0.7z",
+            "hash": "sha512:e41770f65f07126f47802826f8bca5a9318f435293868356865a9f59fd044c7b4725767ba29008257e3694d1c71d086d57d060d76db8f07725448230e4858c50"
         },
         "32bit": {
-            "url": "https://mkvtoolnix.download/windows/releases/101.0/mkvtoolnix-32-bit-101.0.7z",
-            "hash": "sha512:4b2273cc0e7b9aa7eb15e9f6bd36a3b0105f4ddd2f7548023b59d690a4a37777601cc0b6eba6d2c25c3afeac0841579dad4364f950411cd7e083881ac6b733d7"
+            "url": "https://mkvtoolnix.download/windows/releases/103.0/mkvtoolnix-32-bit-103.0.7z",
+            "hash": "sha512:db872bcf7e76ae5bd074650bc7615f99adf3daf1b155dde96a81a609025859377f813ced9f80069499d85e0b2b2933cac21ab4d95b9fa70b3c84087318b108a8"
         }
     },
     "extract_dir": "mkvtoolnix",

@@ -1,17 +1,17 @@
 {
-    "version": "1.7.29",
+    "version": "1.7.31",
     "description": "Open source, end-to-end encrypted photo and video storage app.",
     "homepage": "https://ente.io",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ente/photos-desktop/releases/download/v1.7.29/ente-1.7.29-x64.exe#/dl.7z",
-            "hash": "sha512:42a92d8d9982196553c87bcb947a9028f55d088f139c9a8fe3a5ccf6ca62812105386f6e26fbc3402eaae75985c45560f5294e0ff373f99723546ae98362ca2d",
+            "url": "https://github.com/ente/photos-desktop/releases/download/v1.7.31/ente-1.7.31-x64.exe#/dl.7z",
+            "hash": "sha512:93785b9967154fd7a6b9d16774b951eb5f34bccbbdf08b6780811cb892d3fd2eb937cfc097435c42976ed3fc271087a35db39b096cbfc65a4be5c059dd5b5fb9",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
         },
         "arm64": {
-            "url": "https://github.com/ente/photos-desktop/releases/download/v1.7.29/ente-1.7.29-arm64.exe#/dl.7z",
-            "hash": "sha512:47f9b754ea68cc30410967fed62013bc6a5a31fde60f2994e09eeed11f59855c04e238825224475b49fb45bf9fec154bd44da76f205cf2675ebda640b8614a8d",
+            "url": "https://github.com/ente/photos-desktop/releases/download/v1.7.31/ente-1.7.31-arm64.exe#/dl.7z",
+            "hash": "sha512:61d9c36c183354c8ff74eaaccfb3a71a2261fb2d810fbdd1a11d490bd08001c5b89f234f4ae1df7be9836fb86a9b2848eb8da9e7c995910f91c740dc3b7bfe57",
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-arm64.7z\" \"$dir\""
         }
     },

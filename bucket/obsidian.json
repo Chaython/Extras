@@ -1,13 +1,13 @@
 {
-    "version": "1.13.7",
+    "version": "1.15.1",
     "description": "Powerful knowledge base that works on top of a local folder of plain text Markdown files.",
     "homepage": "https://obsidian.md",
     "license": {
         "identifier": "Freeware",
         "url": "https://obsidian.md/license"
     },
-    "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.exe#/dl.7z",
-    "hash": "f233dc24896b3f2d5f9e4b01111181a561d0760b2105f0a474024c5f3143a9bc",
+    "url": "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.15.1/Obsidian-1.15.1.exe#/dl.7z",
+    "hash": "218c7d30acc065355ce94719dd996d5e2a2347cde3811ea5dc29380583f02b58",
     "architecture": {
         "64bit": {
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""

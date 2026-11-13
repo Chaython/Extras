@@ -1,10 +1,10 @@
 {
-    "version": "1.5.4.180",
+    "version": "1.6.0.200",
     "description": "Basic uninstaller though powerful and lightning fast.",
     "homepage": "https://geekuninstaller.com/",
     "license": "Shareware",
     "url": "https://geekuninstaller.com/geek.7z",
-    "hash": "23341c1d1f0867570571fc269cc56cb4e35ef6cd2baef1818fc7a1b9634378bd",
+    "hash": "1327a273caaf44aa449b224f5de361e80b858ac2a11c8c0288b455f8603bccbf",
     "bin": "geek.exe",
     "shortcuts": [
         [

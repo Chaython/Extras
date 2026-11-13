@@ -1,5 +1,5 @@
 {
-    "version": "7.2.8",
+    "version": "7.4.2",
     "description": "Fork of Telegram Desktop with quality-of-life enhancements.",
     "homepage": "https://t.me/forkgram",
     "license": {
@@ -8,12 +8,12 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/forkgram/tdesktop/releases/download/v7.2.8/Telegram.zip",
-            "hash": "b29a306eaf49288fa39fc1116672d7ffe7904cd86c1910a1a32f6f8c3954aa2a"
+            "url": "https://github.com/forkgram/tdesktop/releases/download/v7.4.2/Telegram.zip",
+            "hash": "db03f12cb0777fccaf398dacdc28357e5dc4691ce2beadf1c15198a8553d13e8"
         },
         "32bit": {
-            "url": "https://github.com/forkgram/tdesktop/releases/download/v7.2.8/Telegram_x86.zip",
-            "hash": "59aee55a9a222e89a336010c6bc7ece9b6f45f95f9b6a57af4115073b6611759"
+            "url": "https://github.com/forkgram/tdesktop/releases/download/v7.4.2/Telegram_x86.zip",
+            "hash": "f0ba3199183eef7d9e3019eea5fea75294333cbc69f834910e7b9b8e3039affb"
         }
     },
     "pre_install": [
